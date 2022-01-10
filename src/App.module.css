@@ -1,0 +1,17 @@
+.li {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+
+.ul {
+    display: flex;
+    flex-direction: column;
+    text-decoration: line-through;
+    /* justify-content: space-around; */
+}
+
+.input {
+    /* text-decoration: line-through; */
+    background-color:blue;
+}
